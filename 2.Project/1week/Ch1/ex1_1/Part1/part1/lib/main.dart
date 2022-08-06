@@ -1,8 +1,8 @@
-import 'package:ex1_1/widzet/row_column.dart';
 import 'package:flutter/material.dart';
+import 'package:part1/part1_1.dart';
 
 void main() {
-  //runApp(const MyApp());
+  // runApp(const MyApp());
   runApp(MyWidget());
 }
 
